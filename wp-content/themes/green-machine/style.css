@@ -1,0 +1,46 @@
+/*
+Theme Name: Green Machine
+Author: Pierce Issah
+Description: This theme is perfect for people who love the color green.
+Version: 0.1
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+html,
+body {
+  height: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-bottom: 16px;
+}
+
+nav {
+  height: 50px;
+  background-color: #00261c;
+}
+nav ul {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  list-style: none;
+}
+nav li {
+  color: #fff;
+}
+
+h1 {
+  color: #00261c;
+}
