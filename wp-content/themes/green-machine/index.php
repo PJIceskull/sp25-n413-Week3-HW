@@ -31,6 +31,10 @@
     endif;
     ?>
 
+    <div class="imageWrap">
+        <img src="https://www.motortrend.com/uploads/2023/07/982-1488-22-1/feature_image.jpg" alt="Green Hotrod Car">
+        <img src="https://images.pexels.com/photos/1048033/pexels-photo-1048033.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Wet Green Leaf">
+    </div>
 
     <?php wp_footer() ?>
 </body>

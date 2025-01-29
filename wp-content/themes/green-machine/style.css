@@ -44,3 +44,13 @@ nav li {
 h1 {
   color: #044d29;
 }
+
+.imageWrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.imageWrap img {
+  height: 300px;
+  border-radius: 18px;
+}
