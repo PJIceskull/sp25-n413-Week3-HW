@@ -23,3 +23,10 @@ nav {
 p {
   color: #363942;
 }
+
+.imageWrap {
+  flex-direction: row-reverse;
+}
+.imageWrap img {
+  height: 250px;
+}
