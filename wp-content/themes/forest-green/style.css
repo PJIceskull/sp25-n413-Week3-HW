@@ -1,0 +1,25 @@
+/*
+Theme Name: Forest Green
+Template: green-machine
+*/
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #d8caa8;
+}
+
+h1,
+h2,
+h3 {
+  color: #382513;
+}
+
+nav {
+  background-color: #284907;
+}
+
+p {
+  color: #363942;
+}
